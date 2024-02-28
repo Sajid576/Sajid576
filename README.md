@@ -32,7 +32,7 @@
      
 <h2 align="left">Languages and Tools:</h2>
 
-<div>
+<div align="left">
 <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Reactjs" height="30" width="40" /></a>
 
 <a href="" target="blank"><img align="center" src="https://media.licdn.com/dms/image/C5622AQEaSzZNrNFgUQ/feedshare-shrink_800/0/1678383920919?e=2147483647&v=beta&t=skIEHMDr9qucS8R9k_6RwBP1f4HH1Y3WzeDu3CErvpg" alt="Nextjs" height="30" width="40" /></a>
