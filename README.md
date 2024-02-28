@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=4500&pause=2000&color=AE4E27FF&vCenter=true&multiline=true&width=600&height=60&lines=A+Full+Stack+Software+Engineer,+AI+and+Cyber+Security+Enthusiast+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=4500&pause=2000&color=AE4E27FF&vCenter=true&multiline=true&width=1000&height=60&lines=A+Full+Stack+Software+Engineer,+AI+and+Cyber+Security+Enthusiast+)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajid576&label=Profile%20views&color=0e75b6&style=flat" alt="sajid576" /> </p>
 
