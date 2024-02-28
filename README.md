@@ -30,7 +30,21 @@
 </p>
 
      
-<!-- <h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools:</h2>
+
+<a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Reactjs" height="30" width="40" /></a>
+
+<a href="" target="blank"><img align="center" src="https://media.licdn.com/dms/image/C5622AQEaSzZNrNFgUQ/feedshare-shrink_800/0/1678383920919?e=2147483647&v=beta&t=skIEHMDr9qucS8R9k_6RwBP1f4HH1Y3WzeDu3CErvpg" alt="Nextjs" height="30" width="40" /></a>
+
+<a href="" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" alt="Nestjs" height="30" width="40" /></a>
+
+<a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Nodejs" height="30" width="40" /></a>
+
+<a href="" target="blank"><img align="center" src="https://e0.pxfuel.com/wallpapers/228/975/desktop-wallpaper-programming-python-and-other-coding-nav-logo.jpg" alt="Python" height="30" width="40" /></a>
+
+<a href="" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" alt="Javascript" height="30" width="40" /></a>
+
+
 
 
 
